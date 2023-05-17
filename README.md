@@ -35,7 +35,6 @@ This project File Management System (fms_django) has been developed using the fo
 	# jQuery
 	# Ajax
 	# Bootstrap v5
-	# Material Design Bootstrap Template
 	# Font-Awesome
 
 Features:
