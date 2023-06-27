@@ -80,10 +80,6 @@ Super User Access Information:
 Username: admin
 Password: admin123
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-++++ This File Management System Project is accessible and 100% free to use to anyone. ++++
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-------------------------------------------------------------------------------------------
-------------- For any issues, bugs or errors, don't hesitate to contact me ---------------
--------------------------------mr.salahhashim@gmail.com-----------------------------------
+### NOTE ###
+This File Management System Project is accessible and 100% free to use to anyone.
+For any issues, bugs or errors, don't hesitate to contact me: mr.salahhashim@gmail.com
